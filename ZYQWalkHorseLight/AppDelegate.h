@@ -1,9 +1,9 @@
 //
 //  AppDelegate.h
-//  ZYQWalkHorseLight
+//  scrollview
 //
-//  Created by bjzyzl on 2017/6/22.
-//  Copyright © 2017年 bjzyzl. All rights reserved.
+//  Created by zyq on 2017/3/20.
+//  Copyright © 2017年 Jun. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

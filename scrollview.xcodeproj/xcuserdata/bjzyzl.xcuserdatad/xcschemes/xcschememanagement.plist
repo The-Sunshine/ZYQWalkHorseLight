@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ZYQWalkHorseLight.xcscheme</key>
+		<key>scrollview.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>CF6D46611EFBBB06008C6B4E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>CF6D467A1EFBBB06008C6B4E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>CF6D46851EFBBB06008C6B4E</key>
+		<key>5AC8AF271E7FDEB200A91D54</key>
 		<dict>
 			<key>primary</key>
 			<true/>
